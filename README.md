@@ -16,6 +16,7 @@ We would like to illustrate a picture of gun violence in the US over the past 20
 - Do people with unregistered/registered guns commit more crime?
 - Are there places where the opposite trends are true
 - What are the Incline/Decline rates of these crimes geographically over time?
+- How does the victim's proximity to the shooter impact their survival likelihood?
 
 ## DATASET(s) TO USE
 - https://www.kaggle.com/datasets?search=mass+shootings
